@@ -1,8 +1,8 @@
 public class Sum{
 
 	public static void main(String[] args){
-		int a=10;
-		int b=20;
+		String a=10;
+		String b=20;
 		System.out.println(a+b);
 	}
 
